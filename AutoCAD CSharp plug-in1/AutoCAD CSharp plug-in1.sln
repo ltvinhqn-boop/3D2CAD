@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoCAD CSharp plug-in1", "AutoCAD CSharp plug-in1.csproj", "{A923AB63-9374-4722-A688-627F16C4537F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A923AB63-9374-4722-A688-627F16C4537F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A923AB63-9374-4722-A688-627F16C4537F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A923AB63-9374-4722-A688-627F16C4537F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A923AB63-9374-4722-A688-627F16C4537F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EF62531-4C09-4691-B694-6B55A3A83431}
+	EndGlobalSection
+EndGlobal
